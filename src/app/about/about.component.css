@@ -1,0 +1,28 @@
+.about-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    color: #4285f4;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .about-container p:last-child {
+    margin-bottom: 0;
+  }
+  
